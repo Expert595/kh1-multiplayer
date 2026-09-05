@@ -20,3 +20,4 @@ For the local mode, run `Local Test - Start Two Instances.bat`, follow the launc
 - Restored the original placement table immediately after the extra spawn call.
 - Disabled post-spawn actor updates in the experimental duplicate mode.
 - Retained the existing networking and two-instance foundation.
+Support me on ko-fi if you like what I do. To help me.  https://ko-fi.com/arielmp
